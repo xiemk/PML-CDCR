@@ -2,7 +2,7 @@
 
 The Pytorch implementation for the paper [A Deep Model for Partial Multi-label Image Classification with Curriculum Based Disambiguation](http://www.xiemk.pro/publication/arxiv-cdcr-preprint.pdf) (arXiv 2022)
 
-See much related works in [Awesome Weakly Supervised Multi-label Learning!](https://github.com/milkxie/awesome-weakly-supervised-multi-label-learning)
+See much more related works in [Awesome Weakly Supervised Multi-label Learning!](https://github.com/milkxie/awesome-weakly-supervised-multi-label-learning)
 
 ## Preparing Data
 
