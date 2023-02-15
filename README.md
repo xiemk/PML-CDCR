@@ -21,6 +21,11 @@ CUDA_VISIBLE_DEVICES=gpu_ids python run_warmup.py --noise_rate=0.05 --data=./dat
 CUDA_VISIBLE_DEVICES=gpu_ids python run_cdcr.py --noise_rate=0.05 --data=./data
 ```
 
+2. For the second stage, we train the model by considering the class difficulties.
+```
+CUDA_VISIBLE_DEVICES=gpu_ids python run_cdcr_diff.py --noise_rate=0.05 --data=./data
+```
+
 
 ## Reference
 If you find the code useful in your research, please consider citing our paper:
